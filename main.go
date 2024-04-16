@@ -7,9 +7,10 @@ import (
 )
 
 func HelloWorld() string {
-	return "Hello World!"
+	return "This is new deployment"
 }
 
+// changes
 func main() {
 	app := fiber.New()
 
