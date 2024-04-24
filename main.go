@@ -7,7 +7,7 @@ import (
 )
 
 func HelloWorld() string {
-	return "This is new deployment"
+	return "Hello World!"
 }
 
 // changes
